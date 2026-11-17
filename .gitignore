@@ -1,0 +1,21 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+# Local Python files and credentials
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
